@@ -4,7 +4,8 @@
         fputcsv($myfile,
             array("hello,12", "hello,12", "hello,12"));
         fclose($myfile);
-   ////csvdata
+   ////csvdata///////////////////////////////////
+   echo "hello";
 ?>
 
 
